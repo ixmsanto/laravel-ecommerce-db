@@ -13,7 +13,7 @@ A simple e-commerce API built with Laravel, featuring user management, product c
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/ixmsanto/laravel-ecommerce-db.git
 cd laravel-ecommerce
 ```
 
